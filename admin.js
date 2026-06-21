@@ -1,5 +1,5 @@
 const API_URL =
-"https://script.google.com/macros/s/XXXXXXXX/exec";
+"https://script.google.com/macros/s/AKfycbwxpMoYA7gmul9iMk9eA2Cae07sxynCp6Ff73BhXFAdJoOMBmNzZP2-5ck2qRyqjm7W/exec";
 
 document.addEventListener(
   "DOMContentLoaded",
